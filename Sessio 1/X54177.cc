@@ -1,4 +1,6 @@
 
+/* Suma de secuencias de enteros */
+
 #include <iostream>
 #include <string>
 using namespace std;
